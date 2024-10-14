@@ -11,10 +11,8 @@ tags:
     - iOS开发基础
 ---
 
->手势在用户交互中有着举足轻重的作用，这篇文字简单的介绍了iOS中的手势，并通过手势对控件进行变形处理。
-
 # QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering
-
+>手势在用户交互中有着举足轻重的作用，这篇文字简单的介绍了iOS中的手势，并通过手势对控件进行变形处理。
 ## 动机
 
 
